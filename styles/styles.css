@@ -17,7 +17,7 @@ a {
     color: #ff5252;
     font-weight: bold;
     border-radius: 5px;
-    background-color: #333;
+    background-color: #333333;
 }
 
 a:hover {
@@ -37,13 +37,24 @@ div {
     border-radius: 10px;
     padding: 15px;
     margin: 15px auto;
-    width: 80%;
-    max-width: 500px;
+    width: 800px;
+}
+p{
+    margin: 15px auto;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: justify;
 }
 
 /* Titulares */
 h1 {
     color: #ff5252;
+}
+
+h2 {
+    margin: 70px auto 20px auto;
+    font-size: 20px;
+    color: #ffffff;
 }
 
 h5 {
@@ -62,8 +73,6 @@ ol {
     text-align: left;
     padding-left: 20px;
 }
-
-
 
 /* Página de co mentarios */
 .comentario {
