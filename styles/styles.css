@@ -62,3 +62,27 @@ ol {
     text-align: left;
     padding-left: 20px;
 }
+
+
+
+/* Página de co mentarios */
+.comentario {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+}
+
+.boton {
+    border: none;
+    margin: 10px;
+    padding: 10px 15px;
+    color: #ff5252;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #333333;
+}
+
+.boton:hover {
+    background-color: #007bff;
+    color: white;
+}
