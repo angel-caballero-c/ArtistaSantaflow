@@ -18,3 +18,8 @@ Si quieres ver este proyecto en tu máquina local:
 1. **Clona el repositorio**:  
    ```sh
    git clone https://github.com/angel-caballero-c/ArtistaSantaflow.git
+
+
+
+> Vista previa del index.html
+![Index](https://raw.githubusercontent.com/angel-caballero-c/ArtistaSantaflow/refs/heads/main/assets/pecados.jpg)
